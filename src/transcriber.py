@@ -1,4 +1,4 @@
-import whisper  # type: ignore
+import whisper
 import os
 
 class AudioTranscriber:
